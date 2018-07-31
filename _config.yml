@@ -1,5 +1,6 @@
 theme: jekyll-theme-merlot
 <html>
-  <h1> Cyber Security</h1>
+  title: Cyber Security
+ 
   <!-- First header -->
 </html>
