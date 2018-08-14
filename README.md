@@ -1,8 +1,6 @@
 <!DOCTYPE html/>
 <html>
-<body>
-<head>
+  <body>
 <title> Baseball </title>
-</head>
-</body>
+  </body>
 </html>
